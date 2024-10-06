@@ -7,6 +7,7 @@ A curated collection of free and creative common soundfont in sf and sf2 formats
 - [galaxy-electric-pianos.sf2](https://smpldsnds.github.io/soundfonts/soundfonts/galaxy-electric-pianos.sf2) - Galaxy Electric Pianos - [Source](https://musical-artifacts.com/artifacts/968) - License: GNU v3.0
 - [giga-hq-fm-gm.sf2](https://smpldsnds.github.io/soundfonts/soundfonts/giga-hq-fm-gm.sf2) - GIGA FM General MIDI soundfont - [Source](https://musical-artifacts.com/artifacts/759) - License: CC 4.0
 - [supersaw-collection.sf2](https://smpldsnds.github.io/soundfonts/soundfonts/supersaw-collection.sf2) - A collection of 60 supersaw sounds - [Source](https://musical-artifacts.com/artifacts/1232) - License: GNU v3.0
+- [yamaha-grand-lite.sf2](https://smpldsnds.github.io/soundfonts/soundfonts/yamaha-grand-lite.sf2) - A compact version of the Yamaha C5 Grand - [Source](https://sites.google.com/site/soundfonts4u/) - License: GNU v3.0
 
 ## Contribute
 
